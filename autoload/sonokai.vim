@@ -75,7 +75,7 @@ function! sonokai#get_palette(style) "{{{
           \ 'orange':     ['#ef9062',   '215',  'Orange'],
           \ 'yellow':     ['#e5c463',   '179',  'Yellow'],
           \ 'green':      ['#9ecd6f',   '107',  'Green'],
-          \ 'blue':       ['#7accd7',   '110',  'Blue'],
+          \ 'blue':       ['#78dce8',   '81',  'Blue'],
           \ 'purple':     ['#ab9df2',   '176',  'Magenta'],
           \ 'grey':       ['#848089',   '246',  'LightGrey'],
           \ 'none':       ['NONE',      'NONE', 'NONE']
