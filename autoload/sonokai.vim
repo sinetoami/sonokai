@@ -70,7 +70,7 @@ function! sonokai#get_palette(style) "{{{
           \ 'bg_blue':    ['#78dce8',   '110',  'Blue'],
           \ 'diff_blue':  ['#354157',   '17',   'DarkBlue'],
           \ 'diff_yellow':['#4e432f',   '54',   'DarkMagenta'],
-          \ 'fg':         ['#e3e1e4',   '250',  'White'],
+          \ 'fg':         ['#ffffff',   '255',  'White'],
           \ 'red':        ['#f85e84',   '203',  'Red'],
           \ 'orange':     ['#ef9062',   '215',  'Orange'],
           \ 'yellow':     ['#ffd85b',   '220',  'Yellow'],
